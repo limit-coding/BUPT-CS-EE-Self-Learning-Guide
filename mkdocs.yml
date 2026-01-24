@@ -1,8 +1,8 @@
-site_name: CS自学指南
-site_url: site_url: https://limit-coding.github.io/BUPT-CS-EE-Self-Learning-Guide/ 
-site_author: PKUFlyingPig
+site_name: 北邮通信/计算机自学指南
+site_url: https://limit-coding.github.io/BUPT-CS-EE-Self-Learning-Guide/
+site_author: limit-coding
 site_description: >-
-  CS自学指南
+  北邮通信/计算机自学指南
 
 repo_name: cs-self-learning
 repo_url: https://github.com/pkuflyingpig/cs-self-learning/
