@@ -4,10 +4,10 @@ site_author: limit-coding
 site_description: >-
   北邮通信/计算机自学指南
 
-repo_name: cs-self-learning
-repo_url: https://github.com/pkuflyingpig/cs-self-learning/
+repo_name: BUPT-CS-EE-Self-Learning-Guide
+repo_url: https://github.com/limit-coding/BUPT-CS-EE-Self-Learning-Guide/
 
-copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
+copyright: 北邮通信/计算机自学指南
 
 theme:
   name: material
@@ -67,7 +67,7 @@ plugins:
         - locale: en
           name: English
           build: true
-          site_name: csdiy.wiki
+          site_name: BUPT CS/EE Self-Learning Guide
           nav_translations:
             前言: Foreword
             如何使用这本书: How To Use The Book
@@ -130,11 +130,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pkuflyingpig/cs-self-learning/
-  analytics:
-    provider: google
-    property: G-KJB4RXSKZG
-
+      link: https://github.com/limit-coding/BUPT-CS-EE-Self-Learning-Guide/
 nav:
   - 前言: "index.md"
   - 如何使用这本书: "使用指南.md"

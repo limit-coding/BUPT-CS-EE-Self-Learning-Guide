@@ -3,12 +3,12 @@
 ## Course Overview
 
 - University: ETH Zurich
-- Prerequisites: [DDCA](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/DDCA/)
+- Prerequisites: [DDCA](./DDCA.md)
 - Programming Language: C/C++, Verilog
 - Difficulty Level: 🌟🌟🌟🌟
 - Estimated Study Time: 70+ hours
 
-This course, taught by Professor Onur Mutlu, delves into computer architecture. It appears to be an advanced course following [DDCA](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/DDCA/), aimed at teaching how to design control and data paths hardware for a MIPS-like processor, how to execute machine instructions concurrently through pipelining and simple superscalar execution, and how to design fast memory and storage systems. According to student feedback, the course is at least more challenging than CS61C, and some of its content is cutting-edge. Bilibili uploaders recommend it as a supplement to Carnegie Mellon University's 18-447 course. The reading materials provided are extensive, akin to attending a semester's worth of lectures.
+This course, taught by Professor Onur Mutlu, delves into computer architecture. It appears to be an advanced course following [DDCA](./DDCA.md), aimed at teaching how to design control and data paths hardware for a MIPS-like processor, how to execute machine instructions concurrently through pipelining and simple superscalar execution, and how to design fast memory and storage systems. According to student feedback, the course is at least more challenging than CS61C, and some of its content is cutting-edge. Bilibili uploaders recommend it as a supplement to Carnegie Mellon University's 18-447 course. The reading materials provided are extensive, akin to attending a semester's worth of lectures.
 
 The official website description is as follows:
 > "We will learn the fundamental concepts of the different parts of modern computing systems, as well as the latest major research topics in Industry and Academia. We will extensively cover memory systems (including DRAM and new Non-Volatile Memory technologies, memory controllers, flash memory), new paradigms like processing-in-memory, parallel computing systems (including multicore processors, coherence and consistency, GPUs), heterogeneous computing, interconnection networks, specialized systems for major data-intensive workloads (e.g., graph analytics, bioinformatics, machine learning), etc. We will focus on fundamentals as well as cutting-edge research. Significant attention will be given to real-life examples and tradeoffs, as well as critical analysis of modern computing systems."

@@ -3,12 +3,12 @@
 ## 课程简介
 
 - 所属大学：ETH Zurich
-- 先修要求：[DDCA](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/DDCA/)
+- 先修要求：[DDCA](./DDCA.md)
 - 编程语言：C/C++，verilog
 - 课程难度：🌟🌟🌟🌟
 - 预计学时：70 小时 +
 
-讲解计算机体系结构，授课教师是 Onur Mutlu 教授。本课程根据课程描述应该是[DDCA](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/DDCA/)的进阶课程，课程目标是学习如何为类MIPS处理器设计控制和数据通路硬件，如何通过流水线和简单的超标量执行使机器指令同时执行，以及如何设计快速的内存和存储系统。根据同学反馈，从课程本身的难度上说，至少高于 CS61C ，课程的部分内容十分前沿，B站搬运UP主建议大家作为卡内基梅隆大学18-447的补充。所提供的阅读材料十分丰富，相当于听了一学期讲座。
+讲解计算机体系结构，授课教师是 Onur Mutlu 教授。本课程根据课程描述应该是[DDCA](./DDCA.md)的进阶课程，课程目标是学习如何为类MIPS处理器设计控制和数据通路硬件，如何通过流水线和简单的超标量执行使机器指令同时执行，以及如何设计快速的内存和存储系统。根据同学反馈，从课程本身的难度上说，至少高于 CS61C ，课程的部分内容十分前沿，B站搬运UP主建议大家作为卡内基梅隆大学18-447的补充。所提供的阅读材料十分丰富，相当于听了一学期讲座。
 
 以下是官网的介绍：
 >We will learn the fundamental concepts of the different parts of modern computing systems, as well as the latest major research topics in Industry and Academia. We will extensively cover memory systems (including DRAM and new Non-Volatile Memory technologies, memory controllers, flash memory), new paradigms like processing-in-memory, parallel computing systems (including multicore processors, coherence and consistency, GPUs), heterogeneous computing, interconnection networks, specialized systems for major data-intensive workloads (e.g. graph analytics, bioinformatics, machine learning), etc. We will focus on fundamentals as well as cutting-edge research. Significant attention will be given to real-life examples and tradeoffs, as well as critical analysis of modern computing systems.
