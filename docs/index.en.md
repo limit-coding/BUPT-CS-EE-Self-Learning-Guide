@@ -1,5 +1,5 @@
 <figure markdown>
-  
+  ![Image title](./images/title.png){ width="600" }
 </figure>
 
 # Foreword
